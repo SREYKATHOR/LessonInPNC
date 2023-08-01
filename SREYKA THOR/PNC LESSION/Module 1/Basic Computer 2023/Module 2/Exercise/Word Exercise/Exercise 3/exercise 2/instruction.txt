@@ -1,0 +1,15 @@
+The document require you follow the criteria below:
+ + margin
+ - margin left: 0.5 inch
+ - margin right: 0.5 inch
+ - margin top: 0.7 inch
+ - margin bottom: 0.7 inch
+ 
+ + paragraphs under product1,2,3 in the box
+ - line spacing: 0.9 pt
+ + paragraphs below the heading "welcome to the website"
+ - line spacing: 0.9 pt
+ - space before paragraph:12pt
+ - space after paragraph: 12pt
+ 
+   
